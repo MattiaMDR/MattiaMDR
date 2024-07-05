@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Mattia De Rosa
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m open to colloborate on data analytics projects 
-- 📫 Let's connect 
+👋 I'm a freelance data analyst passionate about turning raw data into meaningful insights. I specialize in SQL, Python, Machine Learning, and Data Visualization. My focus includes projects in sales forecasting and A/B testing to optimize business decisions.
 
 <!---
 MattiaMDR/MattiaMDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
