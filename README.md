@@ -16,6 +16,7 @@ Currently, I'm keen on exploring new technologies to enhance efficiency in data 
 
 👯 I’m looking to collaborate on I’m driven to collaborate on exciting projects and contribute to my clients’ success through data-driven solutions.
 
+[![](https://visitcount.itsvg.in/api?id=MattiaMDR&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 MattiaMDR/MattiaMDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
