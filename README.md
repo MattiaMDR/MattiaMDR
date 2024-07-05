@@ -13,6 +13,9 @@ Sales Forecasting: 📈 Predicting future sales using predictive models.
 Data Visualization: 📊 Creating clear and communicative visualizations for stakeholders.
 
 Currently, I'm keen on exploring new technologies to enhance efficiency in data analysis. I'm driven to collaborate on exciting projects and contribute to my clients' success through data-driven solutions.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaMDR)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 MattiaMDR/MattiaMDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
