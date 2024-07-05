@@ -16,6 +16,9 @@ Currently, I'm keen on exploring new technologies to enhance efficiency in data 
 
 👯 I’m looking to collaborate on I’m driven to collaborate on exciting projects and contribute to my clients’ success through data-driven solutions.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MattiaMDR)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![](https://visitcount.itsvg.in/api?id=MattiaMDR&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
