@@ -1,18 +1,4 @@
-👋 Hi there! I'm a passionate freelance data analyst with a solid background and certifications in the following areas:
-
-Data Wrangling: 🧹 Specialized in cleaning and transforming data for effective analysis.
-
-SQL & Spark SQL: 💾 Advanced skills in querying and managing databases.
-
-A/B Testing: 📊 Experience in designing and analyzing tests to optimize business decisions.
-
-Machine Learning: 🤖 Developing models for data analysis.
-
-Sales Forecasting: 📈 Predicting future sales using predictive models.
-
-Data Visualization: 📊 Creating clear and communicative visualizations for stakeholders.
-
-Currently, I'm keen on exploring new technologies to enhance efficiency in data analysis. 
+Economics, Accounting, Finance and Data Analytics are fields that intrigue me and I want to keep learning about these, as well as growing in them. With a very social personality, I find it easy to get into contact with other people and form long lasting relationships. In my free time, you will often see me playing chess online, read a book or taking a new course to learn something. Looking forward to network with like minded professionals. 
 
 👯 I’m looking to collaborate on I’m driven to collaborate on exciting projects and contribute to my clients’ success through data-driven solutions.
 
