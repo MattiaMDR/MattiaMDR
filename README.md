@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as a freelance data analyst and studying finance. I love traveling, playing chess, reading books, and meeting new people :)<br><br>
+I work as a freelance data analyst and studying finance. I love traveling, playing chess, reading books, and meeting new people :))<br><br>
 
 
 # 💻 Tech Stack:
