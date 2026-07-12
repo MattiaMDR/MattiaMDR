@@ -3,7 +3,7 @@
 
 I'm a freelance Data Analyst and Finance student based in Italy.
 
-I build Python workflows, SQL reports and Tableau dashboards that help businesses understand sales, customers, products, revenue and performance.
+I build Python workflows, SQL reports and Tableau dashboards that help businesses understand sales, customers, products, revenue and performance, outside data and finance, I enjoy chess, books and travel.
 
 ## What I Work On
 
