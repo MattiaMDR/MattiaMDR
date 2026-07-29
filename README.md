@@ -1,175 +1,172 @@
-<h1 align="center">Hi, I'm Mattia 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst | Machine Learning | E-commerce Analytics
-</h3>
+# Mattia
 
-<p align="center">
-I help businesses transform raw data into actionable insights, predictive models and decision-support dashboards.
-</p>
+### Data Analyst • Machine Learning • Business Intelligence
 
----
+Transforming business data into actionable insights, predictive models and smarter business decisions.
 
-## 🚀 About Me
-
-I am a Data Analyst with a strong focus on business analytics, machine learning and e-commerce.
-
-With **7 years of experience in the e-commerce industry**, I combine business knowledge with technical skills to help companies make better decisions through data.
-
-My work focuses on turning complex datasets into practical business solutions rather than simply producing technical outputs.
-
-Current areas of specialization include:
-
-- 📈 Sales & Business Performance Analysis
-- 📦 Inventory Optimization
-- 🤖 Machine Learning
-- 📊 Tableau & Power BI Dashboards
-- 🐍 Python & SQL
-- 📉 Demand Forecasting
-- 📁 Data Cleaning & Automation
-
----
-
-## 🛠 Tech Stack
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-Machine%20Learning-success?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
+# 👋 About Me
 
+I help businesses transform raw data into meaningful insights, predictive models and decision-support tools.
+
+With over **7 years of experience in the e-commerce industry**, I combine business knowledge with data analytics and machine learning to solve real business problems.
+
+My goal is simple:
+
+> **Turn complex data into clear business decisions.**
+
+---
+
+# 🚀 Featured Projects
 
 ## 🤖 AI Inventory Optimization System
 
-An end-to-end Machine Learning project designed to optimize inventory management through demand forecasting and intelligent replenishment decisions.
+An end-to-end machine learning project for inventory optimization and demand forecasting.
 
-### Main Features
+**Highlights**
 
 - Demand Forecasting
-- Feature Engineering
 - Inventory Optimization
-- Safety Stock Calculation
-- Reorder Point Optimization
-- Recommended Order Quantities
-- Risk Classification
+- Safety Stock
+- Reorder Point
+- Order Quantity Optimization
+- Inventory Risk Classification
 - Interactive Tableau Dashboard
 
-**Technologies**
+**Stack**
 
-Python • Pandas • Scikit-Learn • XGBoost • Tableau • SQL
+`Python` `Pandas` `Scikit-Learn` `XGBoost` `SQL` `Tableau`
 
 ---
 
 ## 📈 Sales Forecasting with Machine Learning
 
-Machine Learning project focused on predicting future sales using historical business data and advanced forecasting techniques.
+Forecast future sales using historical retail data and predictive models.
 
-Project includes:
+Highlights:
 
-- Data Cleaning
 - Feature Engineering
-- Model Comparison
-- Forecast Evaluation
+- Forecast Models
+- Model Evaluation
 - Business Interpretation
 - Interactive Dashboard
 
 ---
 
-## 🗄 SQL Business Performance Analysis
+## 📊 SQL Business Performance Analysis
 
-Business Intelligence project built using SQL, Python and Tableau.
+Business Intelligence project focused on company performance analysis.
 
-Main topics:
+Highlights:
 
 - Revenue Analysis
 - Customer Segmentation
 - Product Performance
-- Seller Performance
-- Business KPIs
+- KPI Monitoring
 - Executive Dashboard
 
 ---
 
-## 📊 Sales Strategy Decision Dashboard
+## 📉 Sales Strategy Decision Dashboard
 
-Interactive business dashboard created to support strategic business decisions through data visualization.
+Interactive dashboard supporting business and sales decisions.
 
-Includes:
+Highlights:
 
-- KPI Monitoring
-- Sales Trends
-- Product Analysis
+- Sales Performance
 - Customer Analysis
+- Product Analysis
 - Executive Reporting
+- KPI Dashboard
+
+---
+
+# 💼 Services
+
+- Business Data Analysis
+- Machine Learning
+- Demand Forecasting
+- Inventory Analytics
+- SQL Analysis
+- Tableau Dashboards
+- Power BI Dashboards
+- KPI Reporting
+- Data Cleaning
+- Business Intelligence
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+- Python
+- SQL
+
+### Analytics
+
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+### Machine Learning
+
+- Scikit-Learn
+- XGBoost
+
+### Data Visualization
+
+- Tableau
+- Power BI
+
+### Version Control
+
+- Git
+- GitHub
 
 ---
 
 # 🎯 Current Focus
 
-I am currently developing increasingly advanced projects involving:
+Currently expanding my expertise in:
 
 - Machine Learning
-- Predictive Analytics
 - Inventory Optimization
 - Demand Forecasting
-- Decision Support Systems
 - Business Intelligence
-- Data Engineering
-- AI Applications for Business
+- Predictive Analytics
+- Decision Support Systems
 
 ---
 
-# 💼 What I Can Help With
+# 💡 My Approach
 
-✔ Data Cleaning
+Every project starts with one question:
 
-✔ Exploratory Data Analysis
+> **Which business decision can this analysis improve?**
 
-✔ Dashboard Development
-
-✔ Business Reporting
-
-✔ SQL Analysis
-
-✔ Machine Learning Models
-
-✔ Sales Forecasting
-
-✔ Inventory Analytics
-
-✔ Business Automation
-
-✔ KPI Development
+I believe dashboards, reports and machine learning models only create value when they help companies make better decisions.
 
 ---
 
-# 📚 Currently Learning
+<div align="center">
 
-- Advanced Machine Learning
-- Deep Learning
-- MLOps
-- Cloud Data Platforms
-- Large Language Models
-- AI for Business Applications
+### Turning data into better business decisions.
 
----
-
-# 📫 Let's Connect
-
-If you're interested in collaborating on data analytics, business intelligence or machine learning projects, feel free to connect.
-
-I’m always interested in solving real business problems through data.
-
----
-
-*"Turning data into better business decisions."*
+</div>
 
 
