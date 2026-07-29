@@ -45,9 +45,9 @@ Current areas of specialization include:
 
 ---
 
-# ⭐ Featured Projects
 
-## 🤖 AI Inventory Optimization System *(In Development)*
+
+## 🤖 AI Inventory Optimization System
 
 An end-to-end Machine Learning project designed to optimize inventory management through demand forecasting and intelligent replenishment decisions.
 
